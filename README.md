@@ -1,4 +1,6 @@
 <img width="201" height="441" alt="スクリーンショット 2026-09-09 120017" src="https://github.com/user-attachments/assets/547e1fa5-cd76-43e5-91e9-80c51de50815" />
+
+
 # Yohaku
 
 睡眠、食事、通勤、仕事、身支度などから、まとまって使える自由時間を見つけるAndroidアプリです。KotlinとJetpack Composeで実装しています。
